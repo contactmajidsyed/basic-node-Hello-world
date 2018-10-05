@@ -1,0 +1,15 @@
+{
+  "name": "hello_world",
+  "version": "1.0.0",
+  "description": "Basic hello world app to practise deloyment process",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "node index.js"
+  },
+  "author": "Abdul Syed",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.1"
+  }
+}
