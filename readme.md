@@ -11,7 +11,7 @@ The server will start at http://127.0.0.1:8081/
 ### To use Docker
 
 ```s
-$ sudo yum install -y docker
+$ sudo yum install -y docker #This command is to install docker on linux, use something equivalent like brew for other OS  
 $ sudo systemctl start docker
 $ sudo docker info
 $ sudo docker build -t hello-world .
